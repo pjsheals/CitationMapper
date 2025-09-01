@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "CitationMapper™"
+abstract: "CitationMapper™ maps Tier-1, Tier-2, and Tier-3 citation platforms to evaluate brand visibility in LLMs and prompt competition."
+authors:
+  - family-names: Sheals
+    given-names: Paul
+    affiliation: "AIVO Mesh Lab"
+keywords:
+  - AI Visibility Optimization
+  - Citation Mapping
+  - AIVO Standard
+  - Generative Engine Optimization
+  - LLM
+license: MIT
+version: "1.0.0"
+repository-code: "https://github.com/pjsheals/CitationMapper"
+url: "https://citationmapper.org"
+doi: "10.5281/zenodo.REPLACE_WITH_DOI"
+date-released: 2025-09-01
