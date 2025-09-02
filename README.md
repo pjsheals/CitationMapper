@@ -9,7 +9,7 @@ how competitive specific prompts are—so you can engineer trust and get recomme
 ---
 
 ## 🏠 Home Page
-![CitationMapper Home Page](assets/images/citationmapper-homepage-ai-visibility-tool.png) 
+![CitationMapper Home Page](citationmapper-homepage-ai-visibility-tool.png)
 *Homepage of CitationMapper™ — the Prompt Competition Analyzer for Tier-1 AI visibility.*
 
 👉 [Visit CitationMapper.org](https://citationmapper.org/?utm_source=github&utm_medium=repo&utm_campaign=aivo_visibility)
@@ -31,7 +31,7 @@ making it possible for organizations to **engineer trust** and improve their pre
 ---
 
 ## 📊 Process Flow
-![CitationMapper Process Flow](assets/diagrams/citationmapper-ai-visibility-process-diagram.png) 
+![CitationMapper Process Flow](citationmapper-ai-visibility-process-diagram.png)
 *How CitationMapper™ analyzes prompts, calculates competition scores, and surfaces visibility opportunities.*
 
 ---
