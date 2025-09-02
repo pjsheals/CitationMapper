@@ -2,8 +2,9 @@
 
 ![CitationMapper Logo](citationmapper-logo-ai-visibility.png)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281%2Fzenodo.16861660.svg)](https://doi.org/10.5281/zenodo.16861660)
-[![SSRN](https://img.shields.io/badge/SSRN-Preprint-3065AC?logo=ssrn&logoColor=white)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5390001)
+**DOI:** https://doi.org/10.5281/zenodo.16861660  
+**SSRN Preprint:** https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5390001
+
 
 ---
 
