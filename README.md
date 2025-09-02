@@ -2,6 +2,10 @@
 
 ![CitationMapper Logo](citationmapper-logo-ai-visibility.png)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16861660.svg)](https://doi.org/10.5281/zenodo.16861660)
+[![SSRN](https://img.shields.io/badge/SSRN-Preprint-blue)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5390001)
+
+---
 
 🔍 **CitationMapper™** maps and measures AI visibility across Large Language Models (LLMs).  
 It helps brands and agencies see which citation platforms influence AI recommendations and  
@@ -61,9 +65,40 @@ If you use CitationMapper™ in research, reports, or projects, please cite it u
 
 ---
 
+---
+
+## 🔖 Zenodo Records (DOIs)
+CitationMapper Atoms have been deposited to Zenodo for Tier-1 discoverability and citation:
+
+[![DOI Claude](https://zenodo.org/badge/DOI/10.5281/zenodo.17014038.svg)](https://doi.org/10.5281/zenodo.17014038)
+[![DOI Gemini](https://zenodo.org/badge/DOI/10.5281/zenodo.17013978.svg)](https://doi.org/10.5281/zenodo.17013978)
+[![DOI ChatGPT](https://zenodo.org/badge/DOI/10.5281/zenodo.17013901.svg)](https://doi.org/10.5281/zenodo.17013901)
+
+---
+
+## 📂 Hugging Face Datasets
+CitationMapper Atoms are also hosted on Hugging Face for machine-readable access:
+
+- 🤖 [ChatGPT Atom](https://huggingface.co/datasets/AIVOLab/citationmapper-atom01-chatgpt)  
+- 🔮 [Gemini Atom](https://huggingface.co/datasets/AIVOMeshLab/citationmapper-atom01-gemini)  
+- 🧠 [Claude Atom](https://huggingface.co/datasets/AIVOMeshLab/citationmapper-atom01-claude)  
+
+---
+
 ## 🔗 Related Projects
-- [AIVO Standard™](https://aivosearch.com/?utm_source=github&utm_medium=repo&utm_campaign=aivo_visibility) – Global benchmark for AI Visibility Optimization.  
+
+- [AIVO Standard™](https://doi.org/10.5281/zenodo.16861660) – Global benchmark for AI Visibility Optimization.  
 - [GetFoundOnAI](https://getfoundonai.com/?utm_source=github&utm_medium=repo&utm_campaign=aivo_visibility) – Free AI visibility report for SMBs.  
+- [Core Visibility Scan](https://corevisibilityscan.org/?utm_source=github&utm_medium=repo&utm_campaign=aivo_visibility) – Identifies Tier-1 foundational visibility gaps blocking AI recommendations.  
+- [PSOS (Prompt Space Occupancy Score)](https://www.aivojournal.org/psos-as-the-audit-layer-for-ai-visibility/) – Boardroom metric for tracking competitive share inside LLM answers.  
+
+---
+## 📜 Citation
+
+If you reference CitationMapper™ or AIVO Standard™ in research, please cite:
+
+- **AIVO Standard™ (Zenodo DOI):** [10.5281/zenodo.16861660](https://doi.org/10.5281/zenodo.16861660)  
+- **AIVO Standard™ (SSRN Preprint):** [SSRN: Abstract 5390001](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5390001)  
 
 ---
 
