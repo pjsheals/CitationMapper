@@ -1,6 +1,7 @@
 # CitationMapper™
 
-![CitationMapper Logo](assets/logo/citationmapper-logo-ai-visibility.png)
+![CitationMapper Logo](citationmapper-logo-ai-visibility.png)
+
 
 🔍 **CitationMapper™** maps and measures AI visibility across Large Language Models (LLMs).  
 It helps brands and agencies see which citation platforms influence AI recommendations and  
